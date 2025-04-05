@@ -1,39 +1,70 @@
-# legal
+# 🛠️ Sweat Equity Survival Guide
 
-Ah, got it—you’re putting in the sweat, and you want to make sure you actually get what you’re owed and don’t get cut out later. Here’s what to look out for to protect yourself when agreeing to a sweat equity arrangement:
+A quick checklist and survival guide for anyone contributing time and skills in exchange for equity in a startup or project.
 
-Key Things to Watch Out For:
-1. Clear Vesting Terms
-Insist on a written vesting schedule. For example: 25% after 12 months, then monthly vesting over 3 years.
+---
 
-Avoid vague milestones like “when the product launches” unless it’s clearly defined who’s responsible for what.
+## 🔍 What to Look Out For
 
-2. Define Your Role and Deliverables
-Get it in writing: what you’ll do, how long you’ll be involved, and what qualifies as fulfilling your part.
+### ✅ 1. Company Structure – Can it Issue Shares?
+- Only certain legal business types can offer real equity.
+- Make sure the entity is (or will be) able to legally grant you ownership.
+- If it’s not yet registered, push for formal setup before promises of equity.
 
-Be specific—don’t leave your contributions open to interpretation.
+### ✅ 2. Clear Vesting Schedule
+- Insist on a written vesting schedule.
+- Common setup: **4 years with a 1-year cliff**
+- Avoid vague terms like "you’ll get X% after launch"
 
-3. Ownership Documentation
-Ask for a cap table or a document showing you’re entitled to X% of the company.
+### ✅ 3. Define Your Role and Deliverables
+- Outline exactly what you’re contributing (e.g. design, dev, marketing).
+- Get it in writing what counts as “completed” or “fulfilled.”
 
-Ideally, get a signed agreement or stock grant with your name, number of shares/units, and vesting terms.
+### ✅ 4. Get It In Writing
+- Ask for a **Shareholders’ Agreement**, **Letter of Intent (LoI)**, or **Sweat Equity Agreement**.
+- Key things it should include:
+  - Your % ownership
+  - Vesting terms
+  - Buyback or exit clauses
+  - What happens if either party leaves
 
-4. Termination and Exit Clause
-Make sure there’s no “at will” clause that allows them to fire you for nothing and take back your shares.
+### ✅ 5. Protect Your Vested Shares
+- If you leave or are let go, **vested shares should remain yours**.
+- Only **unvested** equity should be subject to clawback or repurchase.
 
-If they must terminate you, you should retain vested shares.
+---
 
-5. Reverse Vesting vs. Clawback
-Reverse vesting is fine—it just means shares are issued upfront but can be taken back if you leave early.
+## 🌍 Country-Specific Info
 
-Clawbacks should be limited—they shouldn't be able to take back already vested shares.
+Looking for local laws, entity types, or how to check if a company is registered in your country?  
+Check the guides below:
 
-6. Valuation Clarity
-Know the current valuation of the company, or agree on a “fair market value” if they ever buy back your shares.
+- 🇸🇪 [Sweden](./sweden.md)
 
-Don’t accept $0.01/share buybacks unless that’s really the value and you're not getting shafted.
+> Want to contribute a guide for your country? Open a PR!
 
-7. Legal Entity and Agreements
-Make sure the company is legally formed (LLC, C-corp, etc.) and can legally issue equity.
+---
 
-No promises without paper. If it’s not written and signed, it doesn’t exist.
+## 🧾 How to Check if the Company Is Legit
+
+Use your local business registry or public company database to confirm:
+- Legal registration
+- Entity type
+- Ownership structure
+- Key people involved
+
+Make sure the entity is in good standing and has the ability to grant equity.
+
+---
+
+## 🧠 Pro Tip
+
+> Documentation ≠ distrust.  
+> It’s how you **protect relationships** and avoid misunderstandings down the line.
+
+---
+
+## 👤 Credit
+
+This guide is for builders, dreamers, and grinders working on early-stage ideas.  
+Protect your time, your energy, and your slice. 🧃
