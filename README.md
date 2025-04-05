@@ -12,13 +12,27 @@ A quick checklist and survival guide for anyone contributing time and skills in 
 - If it’s not yet registered, push for formal setup before promises of equity.
 
 ### ✅ 2. Clear Vesting Schedule
-- Insist on a written vesting schedule.
+
+#### For long-term projects:
 - Common setup: **4 years with a 1-year cliff**
-- Avoid vague terms like "you’ll get X% after launch"
+
+#### For short-term projects (e.g. 1–6 months):
+Use **milestone-based vesting**, tied to actual project delivery:
+
+| **Milestone** | **Description**                             | **Timeline**  | **Equity Vested** |
+|--------------|---------------------------------------------|---------------|--------------------|
+| M1           | Basic system architecture delivered         | Week 1        | 10%                |
+| M2           | Core feature set developed                  | Week 2        | 15%                |
+| M3           | First version deployed for internal use     | Week 3–4      | 25%                |
+| M4           | Iterations based on feedback                | Week 5        | 25%                |
+| M5           | Handoff & documentation                     | Week 6        | 25%                |
+
+> ✅ Vesting happens *as each milestone is confirmed completed*, not just over time.
 
 ### ✅ 3. Define Your Role and Deliverables
-- Outline exactly what you’re contributing (e.g. design, dev, marketing).
-- Get it in writing what counts as “completed” or “fulfilled.”
+- Clarify what you’re actually doing (e.g. “backend developer”, “product design”, etc.)
+- List your deliverables in writing
+- Be specific: What tech stack? What parts of the product? What defines “done”?
 
 ### ✅ 4. Get It In Writing
 - Ask for a **Shareholders’ Agreement**, **Letter of Intent (LoI)**, or **Sweat Equity Agreement**.
@@ -53,8 +67,6 @@ Use your local business registry or public company database to confirm:
 - Ownership structure
 - Key people involved
 
-Make sure the entity is in good standing and has the ability to grant equity.
-
 ---
 
 ## 🧠 Pro Tip
@@ -68,3 +80,4 @@ Make sure the entity is in good standing and has the ability to grant equity.
 
 This guide is for builders, dreamers, and grinders working on early-stage ideas.  
 Protect your time, your energy, and your slice. 🧃
+
